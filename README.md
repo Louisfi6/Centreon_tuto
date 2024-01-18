@@ -19,7 +19,7 @@
 - je désactive windows defender sinon pas de ping
 - je commence à configurer mon central sur : https://docs.centreon.com/fr/docs/installation/installation-of-a-central-server/using-packages/
 - une fois fait je suis la démarche sur : https://docs.centreon.com/fr/docs/installation/web-and-post-installation/#web-
-- le mdp de centreon sera : Centreon123*
+- le mdp de centreon sera : <pass>
 - je configure mon collecteur sur : https://docs.centreon.com/fr/docs/installation/installation-of-a-poller/using-packages/
 - une fois que cela est dait je rajoute mon collecteur dans l'interface de centreon avec : https://docs.centreon.com/fr/docs/monitoring/monitoring-servers/add-a-poller-to-configuration/
 - il faut faire un wget du pastebin dans lequel on a copié collé le gorgoned
